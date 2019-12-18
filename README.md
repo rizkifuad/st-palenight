@@ -1,6 +1,6 @@
-Palenight suckless terminal (st) colorscheme
+st-palenight
 ------------
-This is my favorite st colorscheme highly inspired from [base16-st](https://github.com/honza/base16-st) and [kitty-palenight](https://github.com/citizen428/kitty-palenight).
+This is my favorite suckless terminal (st) palenight colorscheme, highly inspired from [base16-st](https://github.com/honza/base16-st) and [kitty-palenight](https://github.com/citizen428/kitty-palenight).
 
 Installation
 ------------
